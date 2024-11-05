@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBook\\Desktop\\DZ_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C72F62-68A9-447C-A495-1BFAE14537F1}|DZ_7.vcxproj|C:\\Users\\ZBook\\Desktop\\DZ_7\\DZ_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81C72F62-68A9-447C-A495-1BFAE14537F1}|DZ_7.vcxproj|solutionrelative:DZ_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DZ_7.cpp",
+              "DocumentMoniker": "C:\\Users\\ZBook\\Desktop\\DZ_7\\DZ_7.cpp",
+              "RelativeDocumentMoniker": "DZ_7.cpp",
+              "ToolTip": "C:\\Users\\ZBook\\Desktop\\DZ_7\\DZ_7.cpp",
+              "RelativeToolTip": "DZ_7.cpp",
+              "ViewState": "AgIAABMCAAAAAAAAAAAgwCACAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T07:53:21.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

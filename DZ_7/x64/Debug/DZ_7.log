@@ -1,0 +1,18 @@
+﻿  DZ_7.cpp
+E:\Visual Studio\VC\Tools\MSVC\14.41.34120\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(42,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(49,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(66,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(144,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(151,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(168,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(246,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(253,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(270,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(348,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(355,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(372,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(450,13): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(457,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZBook\Desktop\DZ_7\DZ_7.cpp(474,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  DZ_7.vcxproj -> C:\Users\ZBook\Desktop\DZ_7\x64\Debug\DZ_7.exe
